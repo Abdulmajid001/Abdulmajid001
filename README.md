@@ -1,7 +1,7 @@
 <!-- Most edits inluding the icons and links are from https://github.com/tandpfun/tandpfun/edit/main/README.md -->
 
 # Hey There! 👋
-**I'm Abdulmajid** - I'm a fullstack developer, maker, and Stanford student. I work on a ton of random projects in my free time.
+**I'm Abdulmajid** - I'm a Software developer, Web App Developer and Frontend Architect. I plan and build mordern scalable systems.
 
 **`A Software Developer, Web App Developer, and Frontend engineer.`**
 
