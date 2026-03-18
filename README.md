@@ -12,9 +12,9 @@ Check out my [portfolio](https://abdulmajid-hope.vercel.app).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/majid" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="majid" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abdulmajid" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="abdulmajid" height="30" width="40" /></a>
-<a href="https://fb.com/abdulmajid" target="blank"><img align="center"src="https://skillicons.dev/icons?i=instagram" alt="abdulmajid" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abdulmajid-hope" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="majid" height="30" width="40" /></a>
+<a href="https://x.com/MajidHope" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="abdulmajid" height="30" width="40" /></a>
+<a href="https://instagram.com/abdulmajid_hope" target="blank"><img align="center"src="https://skillicons.dev/icons?i=instagram" alt="abdulmajid" height="30" width="40" /></a>
 </p>
 
 # My Skills / Framework
