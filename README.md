@@ -4,6 +4,7 @@
 **I'm Abdulmajid** - I'm a Software developer, Web App Developer and Frontend Architect. I plan and build mordern scalable systems.
 
 **`A Software Developer, Web App Developer, and Frontend engineer.`**
+**`Still working on my profile.`**
 
 
 # About Me
