@@ -1,6 +1,6 @@
 <!-- Most edits inluding the icons and links are from https://github.com/tandpfun/tandpfun/edit/main/README.md -->
 
-# Hey There! 👋
+## Hey There! 👋
 **I'm Abdulmajid** - I'm a Software developer, Web App Developer and Frontend Architect. I plan and build mordern scalable systems.
 
 **`A Software Developer, Web App Developer, and Frontend engineer.`** 
@@ -8,7 +8,7 @@
 **`Still working on my profile.`**
 
 
-# About Me
+## About Me
 
 Check out my [portfolio](https://abdulmajid-hope.vercel.app).
 
@@ -19,8 +19,28 @@ Check out my [portfolio](https://abdulmajid-hope.vercel.app).
 <a href="https://instagram.com/abdulmajid_hope" target="blank"><img align="center"src="https://skillicons.dev/icons?i=instagram" alt="abdulmajid" height="30" width="40" /></a>
 </p>
 
-# My Skills / Framework
-[![SkillIcons](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,nextjs,vite,mongodb,supabase,vercel,tailwind,git,github)](https://skillicons.dev)<br/>
+### My Skills / Framework
+<!-- [![SkillIcons](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,nextjs,vite,mongodb,supabase,vercel,tailwind,git,github)](https://skillicons.dev)<br/> 
+-->
+
+<p align="center">
+  <a href="#" ><img src="https://skillicons.dev/icons?i=html" /></a>
+  <a href="#" ><img src="https://skillicons.dev/icons?i=css" /></a>
+  <a href="#" ><img src="https://skillicons.dev/icons?i=js" /></a>
+  <a href="#" ><img src="https://skillicons.dev/icons?i=ts" /></a>
+  <a href="#" ><img src="https://skillicons.dev/icons?i=react" /></a>
+  <a href="#" ><img src="https://skillicons.dev/icons?i=nodejs" /></a>
+  <a href="#" ><img src="https://skillicons.dev/icons?i=express" /></a>
+  <a href="#" ><img src="https://skillicons.dev/icons?i=nextjs" /></a>
+  <a href="#" ><img src="https://skillicons.dev/icons?i=vite" /></a>
+  <br/>
+  <a href="#" ><img src="https://skillicons.dev/icons?i=mongodb" /></a>
+  <a href="#" ><img src="https://skillicons.dev/icons?i=supabase" /></a>
+  <a href="#" ><img src="https://skillicons.dev/icons?i=vercel" /></a>
+  <a href="#" ><img src="https://skillicons.dev/icons?i=tailwind" /></a>
+  <a href="#" ><img src="https://skillicons.dev/icons?i=git" /></a>
+  <a href="#" ><img src="https://skillicons.dev/icons?i=github" /></a>
+</p>
 
 
 <!-- For Github stat section -->
