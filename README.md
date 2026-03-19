@@ -4,9 +4,7 @@
 ## Hey There! 👋
 **I'm Abdulmajid** - I'm a Software developer, Web App Developer and Frontend Architect. I plan and build mordern scalable systems.
 
-**`A Software Developer, Web App Developer, and Frontend engineer.`** 
-<br/>
-**`Still working on my profile.`**
+**`A Software Developer | Software Architect | AI Researcher.`** 
 
 
 ## About Me
@@ -49,8 +47,6 @@ I design and build modern, scalable and secure web applications that solve real-
   <a href="#" ><img src="https://skillicons.dev/icons?i=git" /></a>
   <a href="#" ><img src="https://skillicons.dev/icons?i=github" /></a>
 </p>
-
-### Links:
 
 <!-- <h3 align="left">Connect with me:</h3> -->
 ### Connect with me:
