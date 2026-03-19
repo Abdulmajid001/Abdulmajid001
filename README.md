@@ -1,4 +1,5 @@
-<!-- Most edits inluding the icons and links are from https://github.com/tandpfun/tandpfun/edit/main/README.md -->
+<!-- Link to view samples of github profiles:- https://github.com/abhisheknaiidu/awesome-github-profile-readme-->
+<!-- Most icons and links are from:- https://github.com/tandpfun/tandpfun/edit/main/README.md -->
 
 ## Hey There! 👋
 **I'm Abdulmajid** - I'm a Software developer, Web App Developer and Frontend Architect. I plan and build mordern scalable systems.
@@ -9,20 +10,28 @@
 
 
 ## About Me
+I focus on building web applications that are scalable, secure, and performance-driven, with a strong emphasis on authentication and user experience. I love working on projects that blend design and technology, turning concepts into products that are both practical and impactful. Whether it's an authentication system, a CRM, or an e-commerce platform, I bring a focus on clean code, responsive design, and long-term scalability.
 
 Check out my [portfolio](https://abdulmajid-hope.vercel.app).
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/abdulmajid-hope" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="majid" height="30" width="40" /></a>
-<a href="https://x.com/MajidHope" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="abdulmajid" height="30" width="40" /></a>
-<a href="https://instagram.com/abdulmajid_hope" target="blank"><img align="center"src="https://skillicons.dev/icons?i=instagram" alt="abdulmajid" height="30" width="40" /></a>
-</p>
+### What i Do:
+I design and build modern, scalable and secure web applications that solve real-world problems and deliver seamless user experiences.
 
-### My Skills / Framework
+- 💡 I build modern, scalable web applications that solve real-world problems  
+- 🎯 I create intuitive, high-performance user interfaces  
+- 🧩 I develop full-stack solutions with clean architecture  
+- ⚡ I optimize performance, speed, and scalability  
+- 🔗 I integrate APIs and third-party services  
+- 🛠️ I solve complex technical challenges efficiently  
+- 🔒 I ensure security and reliability in every project  
+- 📈 I deliver solutions that drive real business results  
+- 🤝 I collaborate effectively and communicate clearly  
+- 🚀 I continuously learn and apply modern technologies  
+
+
+### My Skills / Framework:
 <!-- [![SkillIcons](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,nextjs,vite,mongodb,supabase,vercel,tailwind,git,github)](https://skillicons.dev)<br/> 
 -->
-
 <p align="center">
   <a href="#" ><img src="https://skillicons.dev/icons?i=html" /></a>
   <a href="#" ><img src="https://skillicons.dev/icons?i=css" /></a>
@@ -41,8 +50,23 @@ Check out my [portfolio](https://abdulmajid-hope.vercel.app).
   <a href="#" ><img src="https://skillicons.dev/icons?i=github" /></a>
 </p>
 
+### Links:
 
-<!-- For Github stat section -->
+<!-- <h3 align="left">Connect with me:</h3> -->
+### Connect with me:
+<p align="left">
+<a href="https://www.linkedin.com/in/abdulmajid-hope" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="majid" height="30" width="40" /></a>
+<a href="https://x.com/MajidHope" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="abdulmajid" height="30" width="40" /></a>
+<a href="https://instagram.com/abdulmajid_hope" target="blank"><img align="center"src="https://skillicons.dev/icons?i=instagram" alt="abdulmajid" height="30" width="40" /></a>
+</p>
+
+
+
+<!-- For Github stat section
+ Stat link is from https://github.com/anuraghazra/github-readme-stats
+  ![Abdulmajid's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulmajid001&show_icons=true&theme=radical)
+-->
+
 <!--
 <details>
   <summary>Github Stats ⚡</summary>
