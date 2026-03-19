@@ -12,22 +12,18 @@ I focus on building web applications that are scalable, secure, and performance-
 
 Check out my [portfolio](https://abdulmajid-hope.vercel.app).
 
-### What i Do:
-I design and build modern, scalable and secure web applications that solve real-world problems and deliver seamless user experiences.
-
+### What i Do
 - 💡 I build modern, scalable web applications that solve real-world problems  
 - 🎯 I design and build, high-performance user interfaces  
 - 🧩 I develop full-stack solutions with clean architecture  
 - ⚡ I optimize performance, speed, and scalability  
-- 🔗 I integrate APIs and third-party services  
-- 🛠️ I solve complex technical challenges efficiently  
 - 🔒 I ensure security and reliability in every project  
 - 📈 I deliver solutions that drive real business results  
 - 🤝 I collaborate effectively and communicate clearly  
 - 🚀 I continuously learn and apply modern technologies  
 
 
-### My Skills / Framework:
+### My Skills / Framework
 <!-- [![SkillIcons](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,nextjs,vite,mongodb,supabase,vercel,tailwind,git,github)](https://skillicons.dev)<br/> 
 -->
 <p align="center">
@@ -51,9 +47,9 @@ I design and build modern, scalable and secure web applications that solve real-
 <!-- <h3 align="left">Connect with me:</h3> -->
 ### Connect with me:
 <p align="left">
-<a href="https://www.linkedin.com/in/abdulmajid-hope" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="Abdulmajid LinkedIn" height="40" width="40" /></a>
-<a href="https://x.com/MajidHope" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="abdulmajid twitter"  height="40" width="40" /></a>
-<a href="https://instagram.com/abdulmajid_hope" target="blank"><img align="center"src="https://skillicons.dev/icons?i=instagram" alt="abdulmajid instagram" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/abdulmajid-hope" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="Abdulmajid LinkedIn" height="30" width="30" /></a>
+<a href="https://x.com/MajidHope" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="abdulmajid twitter"  height="30" width="30" /></a>
+<a href="https://instagram.com/abdulmajid_hope" target="blank"><img align="center"src="https://skillicons.dev/icons?i=instagram" alt="abdulmajid instagram" height="30" width="30" /></a>
 </p>
 
 
