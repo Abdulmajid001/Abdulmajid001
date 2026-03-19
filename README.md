@@ -33,7 +33,6 @@ Check out my [portfolio](https://abdulmajid-hope.vercel.app).
   <a href="#" ><img src="https://skillicons.dev/icons?i=express" /></a>
   <a href="#" ><img src="https://skillicons.dev/icons?i=nextjs" /></a>
   <a href="#" ><img src="https://skillicons.dev/icons?i=vite" /></a>
-  <br/>
   <a href="#" ><img src="https://skillicons.dev/icons?i=mongodb" /></a>
   <a href="#" ><img src="https://skillicons.dev/icons?i=supabase" /></a>
   <a href="#" ><img src="https://skillicons.dev/icons?i=vercel" /></a>
