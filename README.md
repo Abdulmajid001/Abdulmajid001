@@ -51,9 +51,9 @@ I design and build modern, scalable and secure web applications that solve real-
 <!-- <h3 align="left">Connect with me:</h3> -->
 ### Connect with me:
 <p align="left">
-<a href="https://www.linkedin.com/in/abdulmajid-hope" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="majid" /></a>
-<a href="https://x.com/MajidHope" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="abdulmajid"  /></a>
-<a href="https://instagram.com/abdulmajid_hope" target="blank"><img align="center"src="https://skillicons.dev/icons?i=instagram" alt="abdulmajid"  /></a>
+<a href="https://www.linkedin.com/in/abdulmajid-hope" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="Abdulmajid LinkedIn" height="40" width="40" /></a>
+<a href="https://x.com/MajidHope" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="abdulmajid twitter"  height="40" width="40" /></a>
+<a href="https://instagram.com/abdulmajid_hope" target="blank"><img align="center"src="https://skillicons.dev/icons?i=instagram" alt="abdulmajid instagram" height="40" width="40" /></a>
 </p>
 
 
