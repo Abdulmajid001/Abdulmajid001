@@ -16,7 +16,7 @@ Check out my [portfolio](https://abdulmajid-hope.vercel.app).
 I design and build modern, scalable and secure web applications that solve real-world problems and deliver seamless user experiences.
 
 - 💡 I build modern, scalable web applications that solve real-world problems  
-- 🎯 I create intuitive, high-performance user interfaces  
+- 🎯 I design and build, high-performance user interfaces  
 - 🧩 I develop full-stack solutions with clean architecture  
 - ⚡ I optimize performance, speed, and scalability  
 - 🔗 I integrate APIs and third-party services  
@@ -51,9 +51,9 @@ I design and build modern, scalable and secure web applications that solve real-
 <!-- <h3 align="left">Connect with me:</h3> -->
 ### Connect with me:
 <p align="left">
-<a href="https://www.linkedin.com/in/abdulmajid-hope" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="majid" height="30" width="40" /></a>
-<a href="https://x.com/MajidHope" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="abdulmajid" height="30" width="40" /></a>
-<a href="https://instagram.com/abdulmajid_hope" target="blank"><img align="center"src="https://skillicons.dev/icons?i=instagram" alt="abdulmajid" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abdulmajid-hope" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="majid" /></a>
+<a href="https://x.com/MajidHope" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="abdulmajid"  /></a>
+<a href="https://instagram.com/abdulmajid_hope" target="blank"><img align="center"src="https://skillicons.dev/icons?i=instagram" alt="abdulmajid"  /></a>
 </p>
 
 
