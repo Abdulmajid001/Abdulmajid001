@@ -8,7 +8,7 @@
 
 
 ## About Me
-I focus on building web applications that are scalable, secure, and performance-driven, with a strong emphasis on authentication and user experience. I love working on projects that blend design and technology, turning concepts into products that are both practical and impactful. Whether it's an authentication system, a CRM, or an e-commerce platform, I bring a focus on clean code, responsive design, and long-term scalability.
+I focus on building web applications that are scalable, secure, and performance-driven, with a strong emphasis on authentication and user experience. I love working on projects that blend design and technology, turning concepts into products that are both practical and impactful.
 
 Check out my [portfolio](https://abdulmajid-hope.vercel.app).
 
