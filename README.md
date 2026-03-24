@@ -4,7 +4,7 @@
 ## Hey There! 👋
 **I'm Abdulmajid** - I'm a Software developer, Web App Developer and Frontend Architect. I plan and build mordern scalable systems.
 
-**`A Software Developer | Software Architect | AI Researcher.`** 
+**`Software Developer | Software Architect | Prompt Engineer.`** 
 
 
 ## About Me
