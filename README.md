@@ -8,7 +8,7 @@
 
 
 ## About Me
-I focus on building web applications that are scalable, secure, and performance-driven, with a strong emphasis on authentication and user experience. I love working on projects that blend design and technology, turning concepts into products that are both practical and impactful.
+I focus on building web applications that are scalable, secure, and performance-driven, with a strong emphasis on authentication and user experience. I love working on projects that blend design and technology, turning concepts into products that are impactful.
 
 Check out my [portfolio](https://abdulmajid-hope.vercel.app).
 
@@ -23,7 +23,7 @@ Check out my [portfolio](https://abdulmajid-hope.vercel.app).
 - 🚀 I continuously learn and apply modern technologies  
 
 
-### My Skills / Framework
+### My Tools / Framework
 <!-- [![SkillIcons](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,nextjs,vite,mongodb,supabase,vercel,tailwind,git,github)](https://skillicons.dev)<br/> 
 -->
 <p align="center">
