@@ -2,7 +2,7 @@
 <!-- Most icons and links are from:- https://github.com/tandpfun/tandpfun/edit/main/README.md -->
 
 ## Hey There! 👋
-**I'm Abdulmajid** - I'm a Software developer, Web App Developer and Frontend Architect. I plan and build mordern scalable systems.
+**I'm Abdulmajid** - A Software developer, Web App Developer and Frontend Architect. I plan and build mordern scalable systems.
 
 **`Software Developer | Software Architect | Prompt Engineer.`** 
 
