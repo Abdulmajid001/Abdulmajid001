@@ -30,7 +30,7 @@ Check out my [portfolio](https://abdulmajid-hope.vercel.app).
   <a href="#" ><img src="https://skillicons.dev/icons?i=html" /></a>
   <a href="#" ><img src="https://skillicons.dev/icons?i=css" /></a>
   <a href="#" ><img src="https://skillicons.dev/icons?i=js" /></a>
-  <a href="#" ><img src="https://skillicons.dev/icons?i=ts" /></a>
+  <!-- <a href="#" ><img src="https://skillicons.dev/icons?i=ts" /></a> -->
   <a href="#" ><img src="https://skillicons.dev/icons?i=react" /></a>
   <a href="#" ><img src="https://skillicons.dev/icons?i=nodejs" /></a>
   <a href="#" ><img src="https://skillicons.dev/icons?i=express" /></a>
